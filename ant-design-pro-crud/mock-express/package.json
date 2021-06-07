@@ -1,0 +1,19 @@
+{
+  "name": "mock-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-pino-logger": "^6.0.0",
+    "mysql2": "^2.2.5",
+    "pino": "^6.11.3",
+    "pino-pretty": "^5.0.0",
+    "url": "^0.11.0"
+  }
+}
